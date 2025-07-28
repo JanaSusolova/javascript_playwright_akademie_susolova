@@ -1,5 +1,5 @@
-const actualAge = 18;
-const drinkingAge = 18;
+const actualAge = 15;
+const drinkingAgeLimit = 18;
 const fullName = "Josef Nový";
 
 if (actualAge >= drinkingAgeLimit) {
