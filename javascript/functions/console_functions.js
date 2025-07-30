@@ -1,5 +1,5 @@
 function logHelloWorld() {
-  console.log("Ahoj světe JavScriptu!");
+  console.log("Ahoj světe JavaScriptu!");
 }
 
 function logText(textParameter) {
